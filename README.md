@@ -78,9 +78,11 @@
 
 ## 📊 Statistiques GitHub
 
-[![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Nessynw&show_icons=true&theme=default&hide_border=true&locale=fr)](https://github.com/Nessynw)
-
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Nessynw&layout=compact&hide_border=true&locale=fr)](https://github.com/Nessynw)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nessynw&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nessynw&layout=compact&hide_border=true&langs_count=8" height="150" />
+</p>
 
 ---
 
