@@ -4,7 +4,7 @@
 *Passionnée de Data Science, d'IA et de développement logiciel*
 
 [![Email](https://img.shields.io/badge/Email-ines.zitouni03%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:ines.zitouni03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ines%20Zitouni-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ines-zitouni](https://www.linkedin.com/in/ines-z-679b8a371/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ines%20Zitouni-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-z-679b8a371/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nessynw-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nessynw)
 
 ---
