@@ -64,7 +64,6 @@
 | [Gestion des budgets d'une ville](https://github.com/Nessynw/Gestion-des-budgets-d-une-ville) | Gestion budgétaire municipale | Java |
 | [Election Polarization Analysis](https://github.com/Nessynw/election-polarization-analysis) | Analyse de polarisation électorale | Python |
 | [flex-mini-lexer](https://github.com/Nessynw/flex-mini-lexer) | Mini-lexer développé avec Flex | C |
-| [heart3D](https://github.com/Nessynw/heart3D) | Cœur 3D animé — expérience nocturne | JavaScript |
 
 ---
 
