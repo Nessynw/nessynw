@@ -14,10 +14,7 @@
 Étudiante en **L3 MIAGE à Paris Dauphine–PSL**, avec une solide expérience en Data Science, développement IA et web full-stack. Actuellement en stage **Data Analyst (Marketing & IA)** chez Jardins Drinks, je cherche à poursuivre en **Master Data & IA**.
 
 - 🎓 **Formation** : L3 MIAGE – Paris Dauphine–PSL (depuis sept. 2026)
-- 💼 **Expérience** : Stagiaire Data Analyst @ Jardins Drinks, Paris (avr.–août 2026)
-- 🤝 **Projet notable** : Digital Product Passport en collaboration avec **Louis Vuitton**
-- 🌍 **Langues** : Français (bilingue) · Anglais (bilingue) · Arabe (natif)
-- 📍 **Localisation** : Paris 19e, France
+- 📍 **Localisation** : Paris, France
 
 ---
 
