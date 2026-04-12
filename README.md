@@ -56,15 +56,15 @@
 ---
 
 ## 🚀 Projets
-
+ 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Digital Product Passport](https://github.com/Nessynw) | Système d'information produit — collaboration **Louis Vuitton** | Python, Data modeling |
 | [ChatPDF](https://github.com/Nessynw/ChatPDF) | Chatbot IA sur PDF via RAG & LLM | Python, LangChain, ChromaDB, Streamlit |
-| [Analyse climatique mondiale](https://github.com/Nessynw) | Modélisation statistique de données climatiques (ACP, clustering) | Python, Pandas, scikit-learn |
 | [Hostel Management](https://github.com/Nessynw/Hostel-Management) | Logiciel de gestion d'hôtel — architecture MVC | Java Swing |
-| [App vente de livres](https://github.com/Nessynw) | Site web full-stack achat/vente de livres | HTML, CSS, JS, PHP, MySQL |
+| [Gestion des budgets d'une ville](https://github.com/Nessynw/Gestion-des-budgets-d-une-ville) | Gestion budgétaire municipale | Java |
 | [Election Polarization Analysis](https://github.com/Nessynw/election-polarization-analysis) | Analyse de polarisation électorale | Python |
+| [flex-mini-lexer](https://github.com/Nessynw/flex-mini-lexer) | Mini-lexer développé avec Flex | C |
+| [heart3D](https://github.com/Nessynw/heart3D) | Cœur 3D animé — expérience nocturne | JavaScript |
 
 ---
 
