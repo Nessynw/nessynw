@@ -76,4 +76,4 @@
 
 ---
 
-*Ouverte aux opportunités — Master Data & IA · Paris Dauphine–PSL*
+*Ouverte aux opportunités — Master Data & IA · EPSI*
