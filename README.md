@@ -13,7 +13,8 @@
 
 Étudiante en **L3 MIAGE à Paris Dauphine–PSL**, avec une solide expérience en Data Science, développement IA et web full-stack. Actuellement en stage **Data Analyst (Marketing & IA)** chez Jardins Drinks, je cherche à poursuivre en **Master Data & IA**.
 
-- 🎓 **Formation** : L3 MIAGE – Paris Dauphine–PSL (depuis sept. 2025)
+- 🎓 **Formation** : L3 MIAGE – Paris Dauphine–PSL
+                      M1 Expert Data Science & IA - EPSI (Sep 2026)
 - 📍 **Localisation** : Paris, France
 
 ---
